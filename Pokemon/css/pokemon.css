@@ -1,0 +1,59 @@
+body{
+    
+    color:5a5a5a;
+}
+.nav-wrapper{
+    position:absolute;
+    top:0;
+    right:0;
+    left:0;
+    z-index:20;
+}
+.nav-wrapper>.container{
+    padding-right:0px;
+    padding-left:0px;
+
+}
+.carousel{
+    width:1200px;
+    height:500px;
+    margin-bottom:50px;
+    margin-left:63px;
+}
+.carousel-inner .item  img{
+    position:absolute;
+    height:500px;
+    min-width: 100%;
+    top:0;
+    left:0;
+}
+.carousel-inner .item{
+    margin-left:px;
+    height:500px;
+    background-color: #777;
+}
+.team .col-lg-4{
+ text-align:center;
+ margin-bottom:20px;
+    
+
+}
+.team h2{
+    color:rgba(50,50,50,0.8);
+}
+.team p{
+    color:rgba(50,50,50,0.8);
+    margin-left:10px;
+    margin-right: 10px;
+}
+.divider{
+    margin:40px 0;
+}
+.mickey{
+    padding-left:50px;
+    padding-top:40px
+}
+footer{
+    margin:0 110px;
+    
+}
