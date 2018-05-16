@@ -1,0 +1,51 @@
+body{
+ background: url("../images/image.jpg");
+    background-size:cover;
+    background-position: center;
+   font-family: 'Kavivanar', cursive;
+}
+
+
+/*
+i{
+    color:white;
+}
+*/
+.white{
+    color:white;
+}
+.center{
+    text-align: center;
+}
+#login{
+    min-width:250px;
+    padding:14px 14px 0;
+    
+}
+#login .social-button{
+    margin:12px 0;
+}
+.btn-fb{
+    margin-left: 8px;
+    color:#fff;
+    background-color: #3b5998;
+}
+.btn-tw{
+    margin-left:20px;
+    color:#fff;
+    background-color: #55acee;
+}
+@media(max-width:500px){
+    h1{
+     background-color: #449d44;   
+    }
+    i{
+        background-color: #449d44; 
+    }
+    
+}
+@media(min-width:500px){
+     h1{
+     background-color: skyblue;   
+    }
+}
